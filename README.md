@@ -49,9 +49,14 @@ To write or edit your personal GoogleSheet, you need to have your own Google API
 After that, rename your downloaded json file and match the name on the code. Suppose for me, my JSON file name was 'CodeforcesAutoTracker-b2030a7afa6c.json', So I wrote this title in my code. 
 
 ##### Step 3 - Put Codeforces ID to track on GoogleSheet.
-Add your friends name on the GoogleSheet as well as in the program. On this part, you have to be careful about the link and the new GoogleSheet tab name. Check the picture to get idea.
+
+Add your friends name on the GoogleSheet as well as in the program. On this part, you have to be careful about the link and the new GoogleSheet tab name. Check the picture to get idea. Here, make new tabs (on the bottom) for different friends. Suppose, first, here I have made tab for myself (Akif), then made tab for my friend Farhan, Kamol, Mhamuda etc.
+
 
 ![Preview of GoogleSheet](https://github.com/akifislam/CodeforcesAutoTracker/blob/main/Preview%20of%20GSheet.png)
+
+Now you have to put their Codeforces Submission page link to here :
+
 
 
 ##### Step 4 - Run the program
