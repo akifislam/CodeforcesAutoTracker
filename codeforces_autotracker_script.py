@@ -8,7 +8,7 @@ import datetime
 
 
 def update_sheet(source_link, sheet_name):
-    today = datetime.datetime.no[iw()
+    today = datetime.datetime.now()
     yesterday_full_Date = (today - datetime.timedelta(1)).strftime("%d %B, %Y")
     today_time_format = today.strftime("%b/%d/%Y %H:%M")
     yesterday_dayno = (today - datetime.timedelta(1)).strftime("%d")
