@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "codeforcesautotracker",
+  "private_key_id": "b2fd32ccc6870",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMq8PhFPfo2NwUEVeUoFEp5eGUeIBIlT8Y9QzC|    USE YOUR OWN API KEY  |zyEm4NtKDX/MFlAsqm9Lfzm7nZ\nqfV36sRYvPxA5gHiQvgCVRkIf/QqbaVr5Dui/g3hHRH7WCCl6ZE+lo\nevIBC+DeYqin74YxqDNpEW3zBa0qietZtPClFRhM8Ww5lY9+CUKHodhNL/x/Pp7G\nIII9Up8pqTJgbxBe3Ll8Zki+xE9LAiEsX1aj0RBUzRZvbay4VsQZjMxWeQKBgQCk\nvrEfCZVda4zrGrUYE9d2Bl9+RTAMZ0P+E3aOrK5Lzd3w11bmZ7XJQeJJGtVPABOS\nXXKSgV9T6pDBVPzRpu4mABmwOOvSdaHBPiRlJ86p+Ez8buIs7m2lQJxoQx6OdPEJ\nu6uaKTVaazVsOxSJle4aQvFtob2yhSE3tYZLkqOY3QKBgC71qSbqpiw2kMtoza/C\n2EKXNDjzjQDu5LFtUZucZnRN+BvrnVHPiwhOfYfXwjprUycy8YnyHMYUWhIhgVrB\n3rJbzRtT7E4XP6MirPxO07ied6hQtuwc/Enz/LbvOu2uB/JN2zyNSMgeds84sE9E\nFdqKwA5i5iCl+xIsoaN+1X6+\n-----END PRIVATE KEY-----\n",
+  "client_email": "akifislam@crviceaccount.com",
+  "client_id": "109991764625816439695",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/akifislam%40codeforcesautotracker.iam.gserviceaccount.com"
+}
