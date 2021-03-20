@@ -5,6 +5,8 @@ In brief, This application tracks your everyday's Codeforces submission and writ
 https://docs.google.com/spreadsheets/d/1VVjA379F-L5pBTLMOGf1BjluZxyJBHikzAuyOs6Ai3w/edit?usp=sharing
 - Github Repository of Codeforces AutoTracker 
 https://github.com/akifislam/CodeforcesAutoTracker
+- How I made this? Depth Explanation 
+https://youtu.be/AICYCLX_0ww
 
 ## Why I made Codeforces AutoTracker?
 
