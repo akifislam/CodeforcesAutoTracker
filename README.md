@@ -1,5 +1,5 @@
 # Codeforces-AutoTracker
-
+!(Preview of GSheet.png)
 In brief, This application tracks your everyday's Codeforces submission and write on your personal GoogleSheet like this :
 - My GoogleSheet Link
 https://docs.google.com/spreadsheets/d/1VVjA379F-L5pBTLMOGf1BjluZxyJBHikzAuyOs6Ai3w/edit?usp=sharing
