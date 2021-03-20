@@ -50,7 +50,8 @@ After that, rename your downloaded json file and match the name on the code. Sup
 
 ##### Step 3 - Put Codeforces ID to track on GoogleSheet.
 Add your friends name on the GoogleSheet as well as in the program. On this part, you have to be careful about the link and the new GoogleSheet tab name. Check the picture to get idea.
-![Preview of GoogleSheet](Preview-of-GSheet.png)
+
+![Preview of GoogleSheet](https://github.com/akifislam/CodeforcesAutoTracker/blob/main/Preview%20of%20GSheet.png)
 
 
 ##### Step 4 - Run the program
