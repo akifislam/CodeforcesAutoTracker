@@ -36,26 +36,33 @@ So, I made a better plan which works fine for me for FREE. I usually turn on my 
 
 
 ##### Step 0 - Install Python and Download this Repository
+
+
 ##### Step 1 - Install Dependencies
   1) gspread : *pip install gspread*
   2) oauth2client : *pip install oauth2client*
   3) requests : *pip install requests*
   4) beautifulsoup4 : *pip install beautifulsoup4*
   5) lxml : *pip install lxml*
+
+
 ##### Step 2 - Get your own GoogleSheet API Key
 To write or edit your personal GoogleSheet, you need to have your own Google API key. A quick Google search may help you to get the key (JSON file). Otherwise this video might help you : 
 (Link)
 
 After that, rename your downloaded json file and match the name on the code. Suppose for me, my JSON file name was 'CodeforcesAutoTracker-b2030a7afa6c.json', So I wrote this title in my code. 
 
+
 ##### Step 3 - Put Codeforces ID to track on GoogleSheet.
 
 Add your friends name on the GoogleSheet as well as in the program. On this part, you have to be careful about the link and the new GoogleSheet tab name. Check the picture to get idea. Here, make new tabs (on the bottom) for different friends. Suppose, first, here I have made tab for myself (Akif), then made tab for my friend Farhan, Kamol, Mhamuda etc.
 
 
-![Preview of GoogleSheet](https://github.com/akifislam/CodeforcesAutoTracker/blob/main/Preview%20of%20GSheet.png)
+![Preview of GoogleSheet](https://github.com/akifislam/CodeforcesAutoTracker/blob/main/GoogleSheetPreview.png)
 
 Now you have to put their Codeforces Submission page link to here :
+
+![Preview of Changes in Code](https://github.com/akifislam/CodeforcesAutoTracker/blob/main/SubmissionLink.png)
 
 
 
